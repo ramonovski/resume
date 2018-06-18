@@ -3,4 +3,4 @@ My resume in LaTeX
 
 To-Do:
 
-Disable hyphen breaks
+Add fancy icons for contact information
